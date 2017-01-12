@@ -20,7 +20,7 @@
     },         
 	"autoload": {
 		"psr-4": {
-            "Novocast\\Cart": "src/"
+            "Novocast\\Cart\\": "src/"
 		}
 	}
 }
