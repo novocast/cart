@@ -1,0 +1,26 @@
+{
+	"name": "novocast/cart",
+	"description": "A  Cart",
+	"keywords": [
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Anthony Totton",
+            "email": "novocast7@gmail.com"
+        }
+    ],    
+	"license": "MIT",
+	"require": { 
+		"laravel/framework": "5.*"
+	},
+    "require-dev": {
+        "laravel/framework": "5.*",
+        "phpunit/phpunit": "4.7.*"
+    },         
+	"autoload": {
+		"psr-4": {
+            "Novocast\\Cart": "src/"
+		}
+	}
+}
